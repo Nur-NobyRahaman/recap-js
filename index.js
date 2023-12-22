@@ -39,7 +39,7 @@
 // console.log(firstNumber, "/", lastNumber, "=", div);
 // console.log(firstNumber, "%", lastNumber, "=", mod);
 
-// task 3
+// task 4
 
 let mark = parseInt(prompt("write your mark"));
 
